@@ -245,7 +245,7 @@ console.log(original, copied)
 
 쉽게 하자면 
 
-자바스크립트의 경우에는 lodash가 있다. 
+자바스크립트의 경우에는 lodash가 있다. ~~이거하라고 만든 라이브러리 아니다~~~
 
 자바의 경우에는 좀 다른데 org.apache.http.client.utils에 있는 CloneUtils를 사용할 수 있다.
 
