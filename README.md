@@ -13,7 +13,7 @@ call by value, call by reference를 정리하다가 여기까지 오게 되었�
 
 자바를 주제로 하자면 (아마도 javascript같은 다른 언어도 비슷하겠지만) 타입에 대한 어느 정도의 개념이 있어야 한다.
 
-Primitive Type -> 원시 자료형이라고 한다. 예를 들면 String, int, doulbe, long, char을 생각하면 된다. 
+Primitive Type -> 원시 자료형이라고 한다. 예를 들면 String, int, double, long, char을 생각하면 된다. 
                   이런 경우에는 call by value로 작동한다.
 
 
